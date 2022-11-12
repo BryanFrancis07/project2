@@ -1,0 +1,38 @@
+h1{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+     padding-top: 20px;
+
+
+}
+
+*{
+background-color: black;
+color: white;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: normal;
+font-size: 50px;
+}
+
+
+h2{
+font-weight: lighter;
+font-size: 20px;
+clear: both;
+}
+
+a{
+    text-decoration-line:none;
+    }
+ul li{
+    list-style: none;
+    text-align: left;
+    float: left;
+    margin-right: 20px;
+}
+input text{
+    box-sizing: 50cm;
+}
+
